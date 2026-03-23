@@ -1,146 +1,195 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   > Hello, World! — I'm Amol Khilari                     ║
-║   > Senior MERN Stack Developer · Full-Stack Engineer   ║
-║   > $ building scalable systems, one commit at a time_  ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Amol%20Khilari%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20India&descAlignY=52&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Senior+MERN+Stack+Developer+%F0%9F%9A%80;5%2B+Years+of+Full-Stack+Engineering;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Clean+Code+%7C+Scalable+Systems+%7C+Fast+APIs)](https://git.io/typing-svg)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00ff88&label=PROFILE+VIEWS" alt="profile views" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00ff88&label=FOLLOWERS)](https://github.com/YOUR_GITHUB_USERNAME)
-&nbsp;
-![](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00ff88?style=flat-square)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=const+passion+%3D+%22building+scalable+systems%22;MongoDB+%E2%9E%9C+Express+%E2%9E%9C+React+%E2%9E%9C+Node.js;Clean+Architecture+%7C+Fast+APIs+%7C+Great+UX;5%2B+Years+shipping+production+code)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=amolcn&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/amolcn)
+[![GitHub followers](https://img.shields.io/github/followers/amolcn?style=for-the-badge&color=00d4ff&label=FOLLOWERS&logo=github)](https://github.com/amolcn)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00ff88?style=for-the-badge)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `$ cat /proc/self/identity`
 
 ```javascript
-const developer = {
-  name: "Amol Khilari",
-  title: "Senior MERN Stack Developer",
-  location: "India 🇮🇳",
-  experience: "5+ years",
-  specialties: [
-    "Full-Stack Web Apps",
-    "REST & GraphQL APIs",
-    "Microservices",
-    "Cloud Deployment",
-  ],
-  currentFocus: "Scalable SaaS platforms with Next.js 14 + MongoDB Atlas",
-  funFact: "I debug with console.log and I'm not ashamed 🐛",
+const YourName = {
+  role      : "Senior MERN Stack Developer",
+  location  : "India",
+  experience: "5+ years in production systems",
+
+  code      : ["JavaScript", "TypeScript", "Node.js", "React", "Next.js"],
+  database  : ["MongoDB", "Redis", "PostgreSQL"],
+  infra     : ["Docker", "Nginx", "AWS", "Vercel", "GitHub Actions"],
+
+  architecture : ["Microservices", "REST APIs", "GraphQL", "Event-Driven"],
+  currentBuild : "AI-powered SaaS with Next.js 14 + MongoDB Atlas + OpenAI",
+
+  superpower : "Turning caffeine into scalable backend systems",
+  motto      : "Ship fast. Refactor often. Break nothing in prod."
 };
 ```
 
-> 🚀 Building **high-performance**, production-ready web applications with the MERN stack.
-> Passionate about **clean architecture**, developer experience, and turning complex problems into elegant solutions.
-> From MongoDB schema design to React component libraries — I ship things that **scale**.
+> I architect systems that **scale**, write code that **lasts**, and build products that **users love**.
+> From zero to production — I own the full stack.
 
 ---
 
-## `$ cat tech_stack.json`
+## `$ ./display_stack.sh`
 
-### ⚡ Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### Frontend
+<div align="center">
 
-### 🔧 Backend
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Redux](https://skillicons.dev/icons?i=redux)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+</div>
+</td>
+<td valign="top" width="33%">
 
-### 🗄️ Database & Cloud
+### Backend
+<div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
-### 🛠️ DevOps & Tools
+</div>
+</td>
+<td valign="top" width="33%">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### DevOps & Tools
+<div align="center">
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git log --stats`
+## `$ git log --all --author=AmolK`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=amolcn&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff88" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolcn&layout=donut-vertical&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amolcn&theme=merko&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff7b72&currStreakLabel=00ff88&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amolcn&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&area_color=00ff88&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `$ ls -la ./projects`
+## `$ ls -la ./featured_projects/`
 
-| Project                    | Stack                               | Description                                   | Status      |
-| -------------------------- | ----------------------------------- | --------------------------------------------- | ----------- |
-| 🛒 **E-Commerce Platform** | React · Node · MongoDB · Redis      | Full-stack shop with cart, payments & admin   | ✅ Live     |
-| 💬 **Real-time Chat App**  | React · Socket.io · Express · JWT   | Scalable chat with rooms, auth & file sharing | ✅ Live     |
-| 📊 **Analytics Dashboard** | Next.js · GraphQL · PostgreSQL      | Data viz platform with real-time updates      | 🔨 Building |
-| 🤖 **AI Resume Builder**   | React · Node · OpenAI API · MongoDB | AI-powered resume creator with PDF export     | 🔨 Building |
+<div align="center">
+
+<a href="https://github.com/amolcn/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amolcn&repo=YOUR_REPO_1&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/amolcn/YOUR_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amolcn&repo=YOUR_REPO_2&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=8b949e" />
+</a>
+
+</div>
+
+<br/>
+
+### What I've shipped
+
+| Project | Stack | Highlights | Link |
+|---|---|---|---|
+| **E-Commerce Platform** | React · Node · MongoDB · Redis · Stripe | Auth, cart, payments, admin panel, analytics | [Live](#) |
+| **Real-time Chat App** | React · Socket.io · Express · JWT · MongoDB | Rooms, file sharing, online presence | [Live](#) |
+| **API Gateway Boilerplate** | Node.js · Express · Redis · Docker | Rate limiting, auth middleware, logging | [Repo](#) |
+| **AI Resume Builder** | Next.js · OpenAI API · MongoDB · PDF.js | AI content, multiple templates, PDF export | [Building](#) |
+| **Analytics Dashboard** | Next.js · GraphQL · PostgreSQL · Recharts | Real-time charts, custom KPIs | [Building](#) |
 
 ---
 
-## `$ cat currently.log`
+## `$ uptime --career`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  2019 ────────────────────────────────────────────── 2024+      ║
+║                                                                  ║
+║  [Junior] ───► [Mid] ─────────► [Senior] ─────────► [Lead]      ║
+║   Node.js       MERN Stack       Architecture        Leadership  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+| Period | Role | Key Achievement |
+|---|---|---|
+| 2024 – Now | **Senior MERN Developer** | Led team of 4, shipped SaaS with 10k+ users |
+| 2022 – 2024 | **Full-Stack Engineer** | Built 15+ APIs serving 1M+ requests/day |
+| 2020 – 2022 | **Mid-Level Developer** | Migrated legacy PHP → MERN, 60% perf gain |
+| 2019 – 2020 | **Junior Developer** | First Node.js production app |
+
+---
+
+## `$ cat currently_learning.log`
 
 ```bash
-[INFO]  🔨 Building    → SaaS platform with Next.js 14 + MongoDB Atlas
-[INFO]  📖 Learning    → Microservices, RabbitMQ, Kubernetes
-[INFO]  🤖 Exploring   → LangChain + vector databases (AI integrations)
-[INFO]  🌍 Contributing → Open source Node.js packages
-[INFO]  💬 Ask me about → MERN stack, system design, API architecture
+[INFO] ► Kubernetes orchestration & Helm charts
+[INFO] ► RabbitMQ message queues for microservices
+[INFO] ► LangChain + Pinecone for AI-powered features
+[INFO] ► WebSockets at scale with Redis pub/sub
+[INFO] ► System design & distributed systems patterns
 ```
 
 ---
 
-## `$ cat activity_graph.md`
+## `$ ping --connect`
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `$ ping connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=About.me&logoColor=black)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.dev)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
 </div>
 
@@ -149,12 +198,13 @@ const developer = {
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write code." ║
-║                         — John Johnson         ║
-╚════════════════════════════════════════════════╝
+"The best code is no code. The second best is readable, tested, and well-documented."
 ```
 
-⭐ **If you like my work, consider giving a star to my repos!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+**Star my repos if you find them useful — it keeps me going!**
+
+`Built with love + coffee + way too many console.log() statements`
 
 </div>
